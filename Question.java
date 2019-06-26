@@ -1,4 +1,3 @@
-package sorting;
 
 /*
  * Question.java
